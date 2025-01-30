@@ -140,4 +140,4 @@ We did data visualization and data analysis of the target variable, age features
 
 We also did a complete feature engineering part in this article which summons all the valid steps needed for further steps i.e. model building.
 
-From the above model accuracy, KNN is giving us the accuracy which is 89%. Conclusion Heart disease prediction using machine learning utilizes algorithms to analyze medical data like age, blood pressure, and cholesterol levels, aiding in early detection and prevention. Machine learning greatly enhances disease prediction by analyzing large datasets, identifying patterns, and making accurate forecasts, ultimately improving healthcare outcomes and saving lives.
+From the above model accuracy, KNN is giving us the accuracy which is 89%. Conclusion Heart disease prediction using machine learning utilizes algorithms to analyze medical data like age, blood pressure, and cholesterol levels, aiding in early detection and prevention. Machine learning greatly enhances disease prediction by analyzing large datasets, identifying patterns, and making accurate forecasts, ultimately improving healthcare outcomes and saving lives. 
